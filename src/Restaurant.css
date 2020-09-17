@@ -1,0 +1,44 @@
+.panel{
+    margin-top:0px;
+}
+.x{
+    font-family: fantasy; 
+    color:darkblue;
+}
+.overview{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+color:darkblue;
+font-style: bold;
+margin-top:30px;
+}
+.shift{
+    margin-top:40px;
+}
+
+.leftshift{
+    margin-left:30px;
+    
+}
+.aleftshift{
+    margin-left:60px;
+    
+}
+.a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:20px;  
+}
+
+.b{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    color:darkblue;
+    margin-top:15px;
+}
+
+.wide{
+    width: 100%;
+    height: 380px;
+    object-fit: contain;
+  
+  }

@@ -1,0 +1,11 @@
+whenever the state change happen the render is called 
+component did mount run after the render
+first constructor is order
+but when state change happen only the render is called
+.then are the promises that executes once the task is finsihed ex fetch(...).then()
+
+there are three api one is to call the >>location on search bar 
+>> home for getting the restaurant list on the basis of id
+>> list for geeting whole data ...
+
+
